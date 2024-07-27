@@ -1,0 +1,11 @@
+body {
+  box-sizing: border-box;
+}
+
+.accord-content {
+  display: none;
+}
+
+.show {
+  display: block;
+}
